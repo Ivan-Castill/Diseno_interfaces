@@ -1,0 +1,19 @@
+html{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+p{
+  color: brown; 
+  background-color: aqua;
+  font-size: 30px;
+}
+ul{
+    display: flex;
+}
+img{
+    width: 800px;
+    height: 1200px;
+}
